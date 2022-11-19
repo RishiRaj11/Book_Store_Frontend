@@ -1,0 +1,5 @@
+AppBar -> used to make NavBar in react js provided by Material UI
+Troprgraphy -> Used to write text 
+Toolbar -> container for NavBar 
+Tabs- it looks like Link  or anchar tag 
+Tab-> it is content of tabs self closing  lable ="Whatever text you want to add "
